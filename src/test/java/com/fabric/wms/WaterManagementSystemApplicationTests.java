@@ -1,4 +1,4 @@
-package com.fabric.water.management.system;
+package com.fabric.wms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
